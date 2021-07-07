@@ -1,0 +1,7 @@
+C:\Users\olegf\source\repos\лаба6\лаба6\obj\Debug\лаба6.csprojAssemblyReference.cache
+C:\Users\olegf\source\repos\лаба6\лаба6\obj\Debug\лаба6.csproj.CoreCompileInputs.cache
+C:\Users\olegf\source\repos\лаба6\лаба6\bin\Debug\лаба6.exe.config
+C:\Users\olegf\source\repos\лаба6\лаба6\bin\Debug\лаба6.exe
+C:\Users\olegf\source\repos\лаба6\лаба6\bin\Debug\лаба6.pdb
+C:\Users\olegf\source\repos\лаба6\лаба6\obj\Debug\лаба6.exe
+C:\Users\olegf\source\repos\лаба6\лаба6\obj\Debug\лаба6.pdb
